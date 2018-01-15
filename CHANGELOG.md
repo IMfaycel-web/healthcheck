@@ -1048,8 +1048,6 @@ this up.
 - Fix hamburger menu button in "Login" page.
 
 
-## v1.1.0 - 2018-08-20
-
 ### Improvements
 - A new "Check Details" page.
 - Updated django-compressor, psycopg2, pytz, requests package versions.
