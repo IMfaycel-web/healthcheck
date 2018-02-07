@@ -1033,8 +1033,6 @@ this up.
 - During DST transition, handle ambiguous dates as pre-transition
 
 
-## v1.2.0 - 2018-10-20
-
 ### Improvements
 - Content updates in the "Welcome" page.
 - Added "Docs > Third-Party Resources" page.
