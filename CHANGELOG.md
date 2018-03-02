@@ -1013,8 +1013,6 @@ this up.
 - Validate and reject cron schedules with six components
 
 
-## v1.3.0 - 2018-11-21
-
 ### Improvements
 - Load settings from environment variables
 - Add "List-Unsubscribe" header to alert and report emails
