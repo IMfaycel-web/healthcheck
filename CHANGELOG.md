@@ -995,8 +995,6 @@ this up.
 - Add the "My Projects" page
 
 
-## v1.4.0 - 2018-12-25
-
 ### Improvements
 - Set Pushover alert priorities for "down" and "up" events separately
 - Additional python usage examples
