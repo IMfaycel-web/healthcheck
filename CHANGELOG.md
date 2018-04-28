@@ -983,8 +983,6 @@ this up.
 - Fix a "invalid time format" in front.views.status_single on Windows hosts
 
 
-## v1.5.0 - 2019-02-04
-
 ### Improvements
 - Database schema: add uniqueness constraint to Check.code
 - Database schema: add Ping.kind field. Remove "start" and "fail" fields
