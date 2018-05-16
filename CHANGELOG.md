@@ -720,7 +720,7 @@ this up.
 - Fix the "Email Reports" screen to clear Profile.next_nag_date if all checks up
 - Fix the month boundary calculation in monthly reports (#497)
 
-## v1.19.0 - 2021-02-03
+## v1.19.0 - 2021-02-
 
 ### Improvements
 - Add tighter parameter checks in hc.front.views.serve_doc
