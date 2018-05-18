@@ -967,8 +967,6 @@ this up.
 - Include the description in email alerts. (#247)
 
 
-## v1.6.0 - 2019-04-01
-
 ### Improvements
 - Add the "desc" field (check's description) to API responses
 - Add maxlength attribute to HTML input=text elements
