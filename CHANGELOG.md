@@ -953,8 +953,6 @@ this up.
 - Fix `prunepings` and `prunepingsslow`, they got broken when adding Projects (#264)
 
 
-## v1.7.0 - 2019-05-02
-
 ### Improvements
 - Add the EMAIL_USE_VERIFICATION configuration setting (#232)
 - Show "Badges" and "Settings" in top navigation (#234)
