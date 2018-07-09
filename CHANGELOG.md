@@ -934,8 +934,6 @@ this up.
 - Fix javascript code to construct correct URLs when running from a subdirectory (#273)
 - Don't show the "Sign Up" link in the login page if registration is closed (#280)
 
-## v1.8.0 - 2019-07-08
-
 ### Improvements
 - Add the `prunetokenbucket` management command
 - Show check counts in JSON "badges" (#251)
