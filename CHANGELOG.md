@@ -920,8 +920,6 @@ this up.
 - Upgrade to Django 2.2.6 – fixes sqlite migrations (#284)
 
 
-## v1.9.0 - 2019-09-03
-
 ### Improvements
 - Show the number of downtimes and total downtime minutes in monthly reports (#104)
 - Show the number of downtimes and total downtime minutes in "Check Details" page
