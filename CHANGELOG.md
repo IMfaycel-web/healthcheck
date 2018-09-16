@@ -700,7 +700,6 @@ this up.
 ### Bug Fixes
 - Fix off-by-one-month error in monthly reports, downtime columns (#539)
 
-## v1.20.0 - 2021-04-22
 
 ### Improvements
 - Django 3.2
