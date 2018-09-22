@@ -900,8 +900,6 @@ this up.
  - Make log events fit better on mobile screens
 
 
-## v1.10.0 - 2019-10-21
-
 ### Improvements
 - Add the "Last Duration" field in the "My Checks" page (#257)
 - Add "last_duration" attribute to the Check API resource (#257)
