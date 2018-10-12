@@ -866,7 +866,6 @@ this up.
 - Stricter cron validation, reject schedules like "At midnight of February 31"
 - In hc.front.views.ping_details, if a ping does not exist, return a friendly message
 
-## v1.12.0 - 2020-01-02
 
 ### Improvements
 - Django 3.0
@@ -885,8 +884,6 @@ this up.
 - Don't allow adding webhook integrations with both URLs blank
 - Don't allow adding email integrations with both "up" and "down" unchecked
 
-
-## v1.11.0 - 2019-11-22
 
 ### Improvements
 - In monthly reports, no downtime stats for the current month (month has just started)
