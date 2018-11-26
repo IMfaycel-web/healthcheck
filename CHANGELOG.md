@@ -842,7 +842,6 @@ this up.
 - API: validate channel identifiers before creating/updating a check (#335)
 - Fix redirect after login when adding Telegram integration
 
-## v1.13.0 - 2020-02-13
 
 ### Improvements
 - Show a red "!" in project's top navigation if any integration is not working
