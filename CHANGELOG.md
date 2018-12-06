@@ -761,7 +761,6 @@ this up.
 ### Bug Fixes
 - Fix db field overflow when copying a check with a long name
 
-## v1.17.0 - 2020-10-14
 
 ### Improvements
 - Django 3.1
