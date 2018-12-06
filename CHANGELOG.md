@@ -803,7 +803,6 @@ this up.
 - Sending a test notification updates Channel.last_error (#391)
 - Handle HTTP 429 responses from Matrix server when joining a Matrix room
 
-## v1.15.0 - 2020-06-04
 
 ### Improvements
 - Rate limiting for Telegram notifications (10 notifications per chat per minute)
