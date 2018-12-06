@@ -819,7 +819,6 @@ this up.
 - Don't escape HTML in the subject line of notification emails
 - Don't let users clone checks if the account is at check limit
 
-## v1.14.0 - 2020-03-23
 
 ### Improvements
 - Improved UI to invite users from account's other projects (#258)
