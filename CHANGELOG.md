@@ -782,7 +782,6 @@ this up.
 - Escape markdown in MS Teams notifications (#426)
 - Set the "title" and "summary" fields in MS Teams notifications (#435)
 
-## v1.16.0 - 2020-08-04
 
 ### Improvements
 - Paused ping handling can be controlled via API (#376)
